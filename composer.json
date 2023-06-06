@@ -17,11 +17,17 @@
     "require": {
         "composer/installers": "^2.0",
         "drupal/admin_toolbar": "^3.3",
+        "drupal/asset_injector": "^2.17",
+        "drupal/bartik": "^1.0",
         "drupal/bootstrap": "^3.28",
         "drupal/core-composer-scaffold": "^10.0",
         "drupal/core-project-message": "^10.0",
         "drupal/core-recommended": "^10.0",
+        "drupal/menu_migration": "^2.0@alpha",
+        "drupal/pathauto": "^1.11",
+        "drupal/quickedit": "^1.0",
         "drupal/smtp": "^1.2",
+        "drupal/vani": "^10.0",
         "drush/drush": "^11.5"
     },
     "conflict": {
